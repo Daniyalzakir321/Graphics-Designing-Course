@@ -1,4 +1,4 @@
-# Graphics-Designing
+# *Graphics Designing*
 
 (1) Assignment# 1
    *  *[Navigate To Images](https://github.com/Daniyalzakir321)*
